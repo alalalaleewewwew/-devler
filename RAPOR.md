@@ -8,15 +8,15 @@ Her soru için en az 2 test yazın.
 ## Soru 1: Tek mi, Çift mi?
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
-|---|---|---|
-| | | |
-| | | |
+|-10--|-çift--|--çift-|
+| 2| çift|çift |
+| 1|tek |tek |
 
 ## Soru 2: Pozitif, Negatif veya Sıfır
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
-|---|---|---|
-| | | |
+|--0-|-sıfır--|-sıfır--|
+| 1|pozitif | pozitif|
 | | | |
 
 ## Soru 3: İki Sayının Büyüğü
